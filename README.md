@@ -1,7 +1,5 @@
 # Hello, WebAssembly!
 
----
-
 Sample project using Rust for web frontend development. 
 
 - use [wasm-bindgen](https://rustwasm.github.io/docs/wasm-bindgen/)
